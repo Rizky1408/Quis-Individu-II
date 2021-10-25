@@ -34,7 +34,8 @@ dari versi sebelumnya yang membawa beberapa fitur baru dan fixed masalah yang ad
 Vscode merupakan sebuah Text Editor yang hampir mendukung semua bahasa pemograman, didalam VScode sendiri sudah terdapat beberapa fungsi
 yang sangat membantu kita sebagai programer dalam hal mengelola kode kita.Dikarenakan tools yang di miliki oleh vscode sangat berlimpah, oleh karena itu
 disini saya akan menjelaskan saja beberapa bagian yang menurut saya sangat penting untuk di ketahui di antaranya yaitu:<br>
-  ### 1 Explorer
+
+ ### 1 Explorer
     <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/3.png" width="800">
       Pada bagian Explorer ini merupakan sebuah tool yang ada pada VScode yang berfungsi untuk mengelola file ataupun folder kodingan kita sehingga jika kita           ingin mengganti-ganti file ataupun masuk ke folder yang berbeda kita bisa memanfaatkan fitur ini, tidak hanya untuk mengelola folder, tools explorer ini           juga kita bisa membuat sebuah sebuah file ataupun folder langsung di dalam vscode.
       
