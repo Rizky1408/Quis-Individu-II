@@ -36,19 +36,20 @@ yang sangat membantu kita sebagai programer dalam hal mengelola kode kita.Dikare
 disini saya akan menjelaskan saja beberapa bagian yang menurut saya sangat penting untuk di ketahui di antaranya yaitu:<br>
 
  ### 1 Explorer
-    <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/3.png" width="800">
+ 
+  <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/3.png" width="800">
       Pada bagian Explorer ini merupakan sebuah tool yang ada pada VScode yang berfungsi untuk mengelola file ataupun folder kodingan kita sehingga jika kita           ingin mengganti-ganti file ataupun masuk ke folder yang berbeda kita bisa memanfaatkan fitur ini, tidak hanya untuk mengelola folder, tools explorer ini           juga kita bisa membuat sebuah sebuah file ataupun folder langsung di dalam vscode.
       
   ### 2 Debuger
-    <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/11.png" width="800"><br>
+   <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/11.png" width="800"><br>
       Ini merupakan fitur terkeren menurut saya yang dimiliki oleh Vscode yaitu fitur debug fitur ini membantu kita melakukan debug pada kode dengan cara               mengawasi kode, variabel, call stack dan expression yang mana saja.
   
   ### 3 Extensions
-    <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/7.png" width="800"><br>
+   <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/7.png" width="800"><br>
       ini merupakan fitur yang tak kalah pentingnya selain dari fitur debugger.Fitur Extentsions ini sangat membantu kita untuk memasang beberapa component             pendukung pada saat kita menulis kode, misalkan Extensions AutoComplete, yang dimana fitur ini sama seperti fitur sarankan kalimat yang dimiliki oleh google       yang dimana ketika kita menulis <i>pri</i> maka Vscode akan otomatis memberikan list kalimat yang mungkin akan kita pakai,sehingga sangat berguna sekali           dalam hal produktifitas ngoding kita dan lebih mempersingkat waktu.
       
   ### 4 Snippet
-    <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/snipet.png" width="800"><br>
+   <img src="https://github.com/Rizky1408/Quis-Individu-II/blob/main/assets/snipet.png" width="800"><br>
       Ini merupakan fitur yang sangat saya sukai, meskipun di beberapa text-editor lainnya mempunyai fitur ini juga, Fitur snipet ini hampir sama seperti fitur         autocomplete bedanya fitur ini di buat oleh kita sendiri,untuk contohnya bisa di lihat gambar diatas. Ketika kita ingin membuat sebuah looping for maka kita       tidak harus menulis sintaksnya secara keseluruhan tetapi kita hanya cukup menulis beberapa kata yang sudah kita jadikan paramater pada saat kita membuat           snippet looping ini sehingga kegiataan ngoding kita akan semakin produktif.
       
    
